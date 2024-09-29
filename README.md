@@ -11,7 +11,7 @@ As someone passionate about competitive programming, I love the thrill of solvin
 
 
 ## How It's Organized
-Each folder corresponds to a specific TOI problem, with code and explanations included where needed. The solutions are in [language you used] (feel free to check them out!), and I’ve added comments to make things a bit clearer.
+Each folder corresponds to a specific TOI problem, with code and explanations included where needed. The solutions are in English (feel free to check them out!), and I’ve added comments to make things a bit clearer.
 
 
 ## How You Can Use It
